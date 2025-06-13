@@ -1,0 +1,13 @@
+steam
+heroic-games-launcher
+lutris
+mangohud
+vkbasalt
+gamemode
+retroarch
+rpcs3
+yuzu
+dolphin-emu
+pcsx2
+protonup-qt
+xpadneo-dkms

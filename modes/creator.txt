@@ -1,0 +1,10 @@
+obs-studio
+kdenlive
+davinci-resolve-studio
+gimp
+inkscape
+audacity
+ardour
+ffmpeg
+imagemagick
+libreoffice-fresh

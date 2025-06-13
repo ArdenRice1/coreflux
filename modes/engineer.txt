@@ -1,0 +1,13 @@
+kicad
+platformio
+arduino-cli
+openocd
+stm32cubemx
+gtkterm
+minicom
+picocom
+pulseview
+sigrok-cli
+gdb
+python
+make

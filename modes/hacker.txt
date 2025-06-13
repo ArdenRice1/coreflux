@@ -1,0 +1,12 @@
+ghidra
+radare2
+nmap
+wireshark-qt
+burpsuite
+bettercap
+aircrack-ng
+hashcat
+john
+cyberchef-desktop
+net-tools
+torbrowser-launcher

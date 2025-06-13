@@ -1,0 +1,16 @@
+vscode
+neovim
+git
+github-cli
+python
+python-pip
+nodejs
+npm
+docker
+docker-compose
+godot
+mono
+libglvnd
+cmake
+gcc
+make
